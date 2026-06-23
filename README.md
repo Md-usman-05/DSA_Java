@@ -1,1 +1,2 @@
 # DSA_Java
+Daily 10 DSA  PROBLEMS PRACTICE 
